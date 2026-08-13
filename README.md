@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Selenium WebDriver automation framework developed for the Software Quality Assurance assignment. The automation framework tests the core functionalities of the SauceDemo web application using Java, Maven, TestNG and the Page Object Model (POM) design pattern.
+This project is a Selenium WebDriver automation framework developed for the Advanced Software Quality Assurance assignment. The automation framework tests the core functionalities of the SauceDemo web application using Java, Maven, TestNG and the Page Object Model (POM) design pattern.
 The project includes manual test case design, automated test implementation, debugging and test execution.
 
 ## Technologies Used
